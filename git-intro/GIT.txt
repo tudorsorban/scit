@@ -1,4 +1,4 @@
 Modificari locale.
 Modificari remote.
 Modificari remote fara push.
-
+Fetch?
