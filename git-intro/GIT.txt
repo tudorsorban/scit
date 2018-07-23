@@ -2,3 +2,4 @@ Modificari locale.
 Modificari remote.
 Modificari remote fara push.
 Fetch?
+alte modificari pe feature branch
